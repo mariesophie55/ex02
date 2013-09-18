@@ -1,0 +1,15 @@
+ex02
+
+bien
+
+---
+
+Calculate x - y / z
+
+---
+
+r2 = 8; ^ is bitwise XOR
+
+---
+
+doc/README.md -> README.md (pas dans le bin)
